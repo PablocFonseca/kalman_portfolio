@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 fundos.db
+*.db
+~$classificao_acoes.xlsx
+classes_ivestsite.csv
