@@ -1,0 +1,983 @@
+index,Setor,Subsetor,Atividade
+ADHM,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+TIET,Utilidade Pública , Energia Elétrica , Energia Elétrica
+AFLT,Utilidade Pública , Energia Elétrica , Energia Elétrica
+ALEF,Outros , Outros , Outros
+RPAD,Financeiro , Intermediários Financeiros , Bancos
+ALSC,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+ALPA,Consumo Cíclico , Tecidos. Vestuário e Calçados , Calçados
+APER,Financeiro , Previdência e Seguros , Corretoras de Seguros
+,Consumo Cíclico , Diversos , Aluguel de carros
+ALUP,Utilidade Pública , Energia Elétrica , Energia Elétrica
+ABEV,Consumo não Cíclico , Bebidas , Cervejas e Refrigerantes
+CBEE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CANT,Financeiro , Holdings Diversificadas , Holdings Diversificadas
+ANIM,Consumo Cíclico , Diversos , Serviços Educacionais
+ARZZ,Consumo Cíclico , Comércio , Tecidos. Vestuário e Calçados
+CRFB,Consumo não Cíclico , Comércio e Distribuição , Alimentos
+ATOM,Outros , Outros , Outros
+AZEV,Bens Industriais , Construção e Engenharia , Construção Pesada
+AZUL,Bens Industriais , Transporte , Transporte Aéreo
+BTOW,Consumo Cíclico , Comércio , Produtos Diversos
+B3SA,Financeiro , Serviços Financeiros Diversos , Serviços Financeiros Diversos
+BAHI,Consumo Cíclico , Diversos , Serviços Educacionais
+BIDI,Financeiro , Intermediários Financeiros , Bancos
+BEES,Financeiro , Intermediários Financeiros , Bancos
+BDLL,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+BTTL,Financeiro , Holdings Diversificadas , Holdings Diversificadas
+BALM,Saúde , Equipamentos , Equipamentos
+BBSE,Financeiro , Previdência e Seguros , Seguradoras
+BBML,Bens Industriais , Serviços , Serviços Diversos
+ABCB,Financeiro , Intermediários Financeiros , Bancos
+BRIV,Financeiro , Intermediários Financeiros , Bancos
+BAZA,Financeiro , Intermediários Financeiros , Bancos
+BBDC,Financeiro , Intermediários Financeiros , Bancos
+BBAS,Financeiro , Intermediários Financeiros , Bancos
+BPAC,Financeiro , Intermediários Financeiros , Bancos
+BGIP,Financeiro , Intermediários Financeiros , Bancos
+BPAR,Financeiro , Intermediários Financeiros , Bancos
+BRSR,Financeiro , Intermediários Financeiros , Bancos
+IDVL,Financeiro , Intermediários Financeiros , Bancos
+BMIN,Financeiro , Intermediários Financeiros , Bancos
+BMEB,Financeiro , Intermediários Financeiros , Bancos
+BNBR,Financeiro , Intermediários Financeiros , Bancos
+BPAN,Financeiro , Intermediários Financeiros , Bancos
+BPAT,Financeiro , Intermediários Financeiros , Bancos
+PINE,Financeiro , Intermediários Financeiros , Bancos
+SANB,Financeiro , Intermediários Financeiros , Bancos
+BETP,Outros , Outros , Outros
+BMKS,Consumo Cíclico , Viagens e Lazer , Bicicletas
+BIOM,Saúde , Medicamentos e Outros Produtos , Medicamentos e Outros Produtos
+BSEV,Consumo não Cíclico , Alimentos Processados , Açucar e Alcool
+GBIO,Saúde , Medicamentos e Outros Produtos , Medicamentos e Outros Produtos
+BKBR,Consumo Cíclico , Hoteis e Restaurantes , Restaurante e Similares
+BOBR,Consumo não Cíclico , Produtos de Uso Pessoal e de Limpeza , Produtos de Limpeza
+HCBR,Consumo Cíclico , Comércio , Produtos Diversos
+BRML,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+BRPR,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+BRAP,Materiais Básicos , Mineração , Minerais Metálicos
+BBRK,Financeiro , Exploração de Imóveis , Intermediação Imobiliária
+AGRO,Consumo não Cíclico , Agropecuária , Agricultura
+BRKM,Materiais Básicos , Químicos , Petroquímicos
+BZRS,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+BSCS,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+BSLI,Financeiro , Intermediários Financeiros , Bancos
+BRCS,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+BRFS,Consumo não Cíclico , Alimentos Processados , Carnes e Derivados
+WTVR,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+BRQB,Tecnologia da Informação , Programas e Serviços , Programas e Serviços
+CABI,Outros , Outros , Outros
+CACO,Outros , Outros , Outros
+CAMB,Consumo Cíclico , Tecidos. Vestuário e Calçados , Calçados
+CAML,Consumo não Cíclico , Alimentos Processados , Alimentos Diversos
+CPTP,Outros , Outros , Outros
+CCRO,Bens Industriais , Transporte , Exploração de Rodovias
+CCXC,Outros , Outros , Outros
+RANI,Materiais Básicos , Madeira e Papel , Papel e Celulose
+MAPT,Outros , Outros , Outros
+ELET,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CLSC,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CELP,Utilidade Pública , Energia Elétrica , Energia Elétrica
+AALR,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+CESP,Utilidade Pública , Energia Elétrica , Energia Elétrica
+PCAR,Consumo não Cíclico , Comércio e Distribuição , Alimentos
+CASN,Utilidade Pública , água e Saneamento , água e Saneamento
+GPAR,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CEGR,Utilidade Pública , Gás , Gás
+CEEB,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CEBR,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CMIG,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CEPE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+COCE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+ENMA,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CSRN,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CEED,Utilidade Pública , Energia Elétrica , Energia Elétrica
+EEEL,Utilidade Pública , Energia Elétrica , Energia Elétrica
+FESA,Materiais Básicos , Siderurgia e Metalurgia , Siderurgia
+CEDO,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+CGAS,Utilidade Pública , Gás , Gás
+HBTS,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+HGTX,Consumo Cíclico , Tecidos. Vestuário e Calçados , Vestuário
+CATA,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+LCAM,Consumo Cíclico , Diversos , Aluguel de carros
+MSPA,Materiais Básicos , Madeira e Papel , Papel e Celulose
+CPLE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+PEAB,Financeiro , Holdings Diversificadas , Holdings Diversificadas
+SBSP,Utilidade Pública , água e Saneamento , água e Saneamento
+CSMG,Utilidade Pública , água e Saneamento , água e Saneamento
+SAPR,Utilidade Pública , água e Saneamento , água e Saneamento
+CSAB,Financeiro , Previdência e Seguros , Seguradoras
+CSNA,Materiais Básicos , Siderurgia e Metalurgia , Siderurgia
+CTNM,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+CTSA,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+CBSC,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+CIEL,Financeiro , Serviços Financeiros Diversos , Serviços Financeiros Diversos
+CMSA,Outros , Outros , Outros
+CNSY,Consumo Cíclico , Mídia , Produção e Difusão de Filmes e Programas
+CRTE,Bens Industriais , Transporte , Exploração de Rodovias
+ODER,Consumo não Cíclico , Alimentos Processados , Alimentos Diversos
+BRGE,Financeiro , Previdência e Seguros , Seguradoras
+CALI,Consumo Cíclico , Construção Civil , Incorporações
+TEND,Consumo Cíclico , Construção Civil , Incorporações
+CORR,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+RLOG,Bens Industriais , Transporte , Transporte Ferroviário
+CSAN,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+CPFE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CPRE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CRDE,Consumo Cíclico , Construção Civil , Incorporações
+CRPG,Materiais Básicos , Químicos , Químicos Diversos
+CARD,Bens Industriais , Serviços , Serviços Diversos
+CTCA,Consumo não Cíclico , Agropecuária , Agricultura
+TRPL,Utilidade Pública , Energia Elétrica , Energia Elétrica
+CVCB,Consumo Cíclico , Viagens e Lazer , Viagens e Turismo
+CYRE,Consumo Cíclico , Construção Civil , Incorporações
+CCPR,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+DASA,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+PNVL,Saúde , Comércio e Distribuição , Medicamentos e Outros Produtos
+DIRR,Consumo Cíclico , Construção Civil , Incorporações
+DOHL,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+DMMO,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+DTCY,Bens Industriais , Serviços , Serviços Diversos
+DTEX,Materiais Básicos , Madeira e Papel , Madeira
+ECOA,Não Classificados , Não Classificado , Não Classificados
+ECOR,Bens Industriais , Transporte , Exploração de Rodovias
+ENBR,Utilidade Pública , Energia Elétrica , Energia Elétrica
+EALT,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+ELEK,Materiais Básicos , Químicos , Petroquímicos
+EKTR,Utilidade Pública , Energia Elétrica , Energia Elétrica
+LIPR,Utilidade Pública , Energia Elétrica , Energia Elétrica
+ETRO,Outros , Outros , Outros
+ELPL,Utilidade Pública , Energia Elétrica , Energia Elétrica
+EMAE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+EMBR,Bens Industriais , Material de Transporte , Material Aeronáutico e de Defesa
+ECPR,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+ENAT,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+ENMT,Utilidade Pública , Energia Elétrica , Energia Elétrica
+ENGI,Utilidade Pública , Energia Elétrica , Energia Elétrica
+ENEV,Utilidade Pública , Energia Elétrica , Energia Elétrica
+EGIE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+EQTL,Utilidade Pública , Energia Elétrica , Energia Elétrica
+ESTC,Consumo Cíclico , Diversos , Serviços Educacionais
+ETER,Bens Industriais , Construção e Engenharia , Produtos para Construção
+EUCA,Materiais Básicos , Madeira e Papel , Madeira
+EVEN,Consumo Cíclico , Construção Civil , Incorporações
+BAUH,Consumo não Cíclico , Alimentos Processados , Carnes e Derivados
+EZTC,Consumo Cíclico , Construção Civil , Incorporações
+VSPT,Bens Industriais , Transporte , Transporte Ferroviário
+FHER,Materiais Básicos , Químicos , Fertilizantes e Defensivos
+CRIV,Financeiro , Intermediários Financeiros , Soc. Crédito e Financiamento
+FNCN,Financeiro , Intermediários Financeiros , Soc. Crédito e Financiamento
+FLRY,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+FLEX,Bens Industriais , Serviços , Serviços Diversos
+FRAS,Bens Industriais , Material de Transporte , Material Rodoviário
+GFSA,Consumo Cíclico , Construção Civil , Incorporações
+GAFL,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+OPGM,Outros , Outros , Outros
+GSHP,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+GGBR,Materiais Básicos , Siderurgia e Metalurgia , Siderurgia
+GOLL,Bens Industriais , Transporte , Transporte Aéreo
+GPIV,Financeiro , Serviços Financeiros Diversos , Gestão de Recursos e Investimentos
+GPCP,Materiais Básicos , Químicos , Petroquímicos
+CGRA,Consumo Cíclico , Comércio , Tecidos. Vestuário e Calçados
+GRND,Consumo Cíclico , Tecidos. Vestuário e Calçados , Calçados
+CNTO,Consumo Cíclico , Comércio , Produtos Diversos
+GUAR,Consumo Cíclico , Comércio , Tecidos. Vestuário e Calçados
+HAGA,Bens Industriais , Construção e Engenharia , Produtos para Construção
+HAPV,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+HBOR,Consumo Cíclico , Construção Civil , Incorporações
+HETA,Consumo Cíclico , Utilidades Domésticas , Utensílios Domésticos
+HOOT,Consumo Cíclico , Hoteis e Restaurantes , Hotelaria
+HYPE,Saúde , Comércio e Distribuição , Medicamentos e Outros Produtos
+IDNT,Financeiro , Serviços Financeiros Diversos , Serviços Financeiros Diversos
+IGBR,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+IGSN,Utilidade Pública , água e Saneamento , água e Saneamento
+IGTA,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+JBDU,Outros , Outros , Outros
+ROMI,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+INEP,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+SLCT,Outros , Outros , Outros
+PARD,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+INNT,Consumo Cíclico , Construção Civil , Incorporações
+MEAL,Consumo Cíclico , Hoteis e Restaurantes , Restaurante e Similares
+FIGE,Outros , Outros , Outros
+IVPR,Bens Industriais , Transporte , Serviços de Apoio e Armazenagem
+MYPK,Consumo Cíclico , Automóveis e Motocicletas , Automóveis e Motocicletas
+IRBR,Financeiro , Previdência e Seguros , Seguradoras
+ITUB,Financeiro , Intermediários Financeiros , Bancos
+ITSA,Financeiro , Intermediários Financeiros , Bancos
+JBSS,Consumo não Cíclico , Alimentos Processados , Carnes e Derivados
+JPSA,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+JHSF,Consumo Cíclico , Construção Civil , Incorporações
+JFEN,Consumo Cíclico , Construção Civil , Incorporações
+JOPA,Consumo não Cíclico , Alimentos Processados , Alimentos Diversos
+JSLG,Bens Industriais , Transporte , Transporte Rodoviário
+CTKA,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+KEPL,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+KLBN,Materiais Básicos , Madeira e Papel , Papel e Celulose
+KROT,Consumo Cíclico , Diversos , Serviços Educacionais
+LIGT,Utilidade Pública , Energia Elétrica , Energia Elétrica
+LINX,Tecnologia da Informação , Programas e Serviços , Programas e Serviços
+LIQO,Bens Industriais , Serviços , Serviços Diversos
+LTEL,Materiais Básicos , Mineração , Minerais Metálicos
+RENT,Consumo Cíclico , Diversos , Aluguel de carros
+LOGG,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+LOGN,Bens Industriais , Transporte , Transporte Hidroviário
+LAME,Consumo Cíclico , Comércio , Produtos Diversos
+LREN,Consumo Cíclico , Comércio , Tecidos. Vestuário e Calçados
+SPRT,Outros , Outros , Outros
+LPSB,Financeiro , Exploração de Imóveis , Intermediação Imobiliária
+LUPA,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Equipamentos e Serviços
+MDIA,Consumo não Cíclico , Alimentos Processados , Alimentos Diversos
+MSRO,Consumo Cíclico , Diversos , Aluguel de carros
+MGLU,Consumo Cíclico , Comércio , Eletrodomésticos
+LEVE,Consumo Cíclico , Automóveis e Motocicletas , Automóveis e Motocicletas
+MGEL,Materiais Básicos , Siderurgia e Metalurgia , Artefatos de Ferro e Aço
+ESTR,Consumo Cíclico , Viagens e Lazer , Brinquedos e Jogos
+POMO,Bens Industriais , Material de Transporte , Material Rodoviário
+MRFG,Consumo não Cíclico , Alimentos Processados , Carnes e Derivados
+AMAR,Consumo Cíclico , Comércio , Tecidos. Vestuário e Calçados
+MEND,Bens Industriais , Construção e Engenharia , Construção Pesada
+MERC,Financeiro , Intermediários Financeiros , Soc. Crédito e Financiamento
+FRIO,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+MTIG,Materiais Básicos , Embalagens , Embalagens
+GOAU,Materiais Básicos , Siderurgia e Metalurgia , Siderurgia
+RSUL,Bens Industriais , Material de Transporte , Material Rodoviário
+MTSA,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Construção e Agrícolas
+MILS,Bens Industriais , Construção e Engenharia , Serviços Diversos
+MMAQ,Bens Industriais , Comércio , Material de Transporte
+BEEF,Consumo não Cíclico , Alimentos Processados , Carnes e Derivados
+MNPR,Consumo não Cíclico , Alimentos Processados , Carnes e Derivados
+MMXM,Materiais Básicos , Mineração , Minerais Metálicos
+MOAR,Financeiro , Holdings Diversificadas , Holdings Diversificadas
+MOVI,Consumo Cíclico , Diversos , Aluguel de carros
+MRSA,Bens Industriais , Transporte , Transporte Ferroviário
+MRVE,Consumo Cíclico , Construção Civil , Incorporações
+MULT,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+MNDL,Consumo Cíclico , Tecidos. Vestuário e Calçados , Acessórios
+NAFG,Consumo Cíclico , Utilidades Domésticas , Utensílios Domésticos
+NATU,Consumo não Cíclico , Produtos de Uso Pessoal e de Limpeza , Produtos de Uso Pessoal
+NEOE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+NORD,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+NRTQ,Saúde , Medicamentos e Outros Produtos , Medicamentos e Outros Produtos
+GNDI,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+NUTR,Materiais Básicos , Químicos , Fertilizantes e Defensivos
+ODPV,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+OIBR,Telecomunicações , Telecomunicações , Telecomunicações
+OMGE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+OPHE,Outros , Outros , Outros
+OSXB,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Equipamentos e Serviços
+OFSA,Saúde , Medicamentos e Outros Produtos , Medicamentos e Outros Produtos
+PATI,Materiais Básicos , Siderurgia e Metalurgia , Artefatos de Ferro e Aço
+PMAM,Materiais Básicos , Siderurgia e Metalurgia , Artefatos de Cobre
+PTBL,Bens Industriais , Construção e Engenharia , Produtos para Construção
+PDGS,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+PDGR,Consumo Cíclico , Construção Civil , Incorporações
+PRIO,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+BRDT,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+PETR,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+PTNT,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+PLAS,Consumo Cíclico , Automóveis e Motocicletas , Automóveis e Motocicletas
+PLSC,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+PPAR,Outros , Outros , Outros
+FRTA,Consumo não Cíclico , Agropecuária , Agricultura
+PSSA,Financeiro , Previdência e Seguros , Seguradoras
+PSVM,Bens Industriais , Transporte , Serviços de Apoio e Armazenagem
+POSI,Tecnologia da Informação , Computadores e Equipamentos , Computadores e Equipamentos
+PPLA,Financeiro , Serviços Financeiros Diversos , Gestão de Recursos e Investimentos
+PTCA,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+PRNR,Bens Industriais , Serviços , Serviços Diversos
+PRMN,Utilidade Pública , Energia Elétrica , Energia Elétrica
+PFRM,Saúde , Comércio e Distribuição , Medicamentos e Outros Produtos
+PRPT,Outros , Outros , Outros
+QUAL,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+QUSW,Tecnologia da Informação , Programas e Serviços , Programas e Serviços
+RADL,Saúde , Comércio e Distribuição , Medicamentos e Outros Produtos
+RAPT,Bens Industriais , Material de Transporte , Material Rodoviário
+RBRA,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+RBCS,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+RCSL,Bens Industriais , Material de Transporte , Material Rodoviário
+REDE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+RPMG,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+RNEW,Utilidade Pública , Energia Elétrica , Energia Elétrica
+LLIS,Consumo Cíclico , Comércio , Tecidos. Vestuário e Calçados
+GEPA,Utilidade Pública , Energia Elétrica , Energia Elétrica
+RDNI,Consumo Cíclico , Construção Civil , Incorporações
+RSID,Consumo Cíclico , Construção Civil , Incorporações
+FRRN,Bens Industriais , Transporte , Transporte Ferroviário
+RAIL,Bens Industriais , Transporte , Transporte Ferroviário
+SNSY,Materiais Básicos , Materiais Diversos , Materiais Diversos
+STBP,Bens Industriais , Transporte , Serviços de Apoio e Armazenagem
+SCAR,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+SMTO,Consumo não Cíclico , Alimentos Processados , Açucar e Alcool
+AHEB,Consumo Cíclico , Viagens e Lazer , Produção de Eventos e Shows
+SLED,Consumo Cíclico , Comércio , Produtos Diversos
+SHUL,Bens Industriais , Máquinas e Equipamentos , Motores . Compressores e Outros
+SEER,Consumo Cíclico , Diversos , Serviços Educacionais
+APTI,Consumo não Cíclico , Agropecuária , Agricultura
+SQIA,Tecnologia da Informação , Programas e Serviços , Programas e Serviços
+SLCE,Consumo não Cíclico , Agropecuária , Agricultura
+SMFT,Consumo Cíclico , Viagens e Lazer , Atividades Esportivas
+SMLS,Consumo Cíclico , Diversos , Programas de Fidelização
+SSBR,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+SOND,Bens Industriais , Construção e Engenharia , Engenharia Consultiva
+SPRI,Financeiro , Holdings Diversificadas , Holdings Diversificadas
+SGPS,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+STTR,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Construção e Agrícolas
+STKF,Utilidade Pública , Energia Elétrica , Energia Elétrica
+OPSE,Outros , Outros , Outros
+OPTS,Outros , Outros , Outros
+SULA,Financeiro , Previdência e Seguros , Seguradoras
+NEMO,Materiais Básicos , Madeira e Papel , Papel e Celulose
+SUZB,Materiais Básicos , Madeira e Papel , Papel e Celulose
+SHOW,Consumo Cíclico , Viagens e Lazer , Produção de Eventos e Shows
+TRPN,Financeiro , Serviços Financeiros Diversos , Gestão de Recursos e Investimentos
+FJTA,Bens Industriais , Máquinas e Equipamentos , Armas e Munições
+TOYB,Consumo Cíclico , Viagens e Lazer , Brinquedos e Jogos
+TECN,Consumo Cíclico , Tecidos. Vestuário e Calçados , Acessórios
+TCSA,Consumo Cíclico , Construção Civil , Incorporações
+TCNO,Bens Industriais , Construção e Engenharia , Engenharia Consultiva
+TGMA,Bens Industriais , Transporte , Transporte Rodoviário
+TEKA,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+TKNO,Materiais Básicos , Siderurgia e Metalurgia , Artefatos de Ferro e Aço
+TELB,Telecomunicações , Telecomunicações , Telecomunicações
+VIVT,Telecomunicações , Telecomunicações , Telecomunicações
+MNZC,Financeiro , Exploração de Imóveis , Exploração de Imóveis
+TESA,Consumo não Cíclico , Agropecuária , Agricultura
+TXRX,Consumo Cíclico , Tecidos. Vestuário e Calçados , Fios e Tecidos
+TIMP,Telecomunicações , Telecomunicações , Telecomunicações
+TOTS,Tecnologia da Informação , Programas e Serviços , Programas e Serviços
+TPIS,Bens Industriais , Transporte , Exploração de Rodovias
+TAEE,Utilidade Pública , Energia Elétrica , Energia Elétrica
+LUXM,Bens Industriais , Transporte , Transporte Hidroviário
+TRIS,Consumo Cíclico , Construção Civil , Incorporações
+APCS,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+TUPY,Bens Industriais , Material de Transporte , Material Rodoviário
+UGPA,Petróleo. Gás e Biocombustíveis , Petróleo. Gás e Biocombustíveis , Exploração. Refino e Distribuição
+UCAS,Consumo Cíclico , Utilidades Domésticas , Móveis
+UNIP,Materiais Básicos , Químicos , Químicos Diversos
+UPKP,Utilidade Pública , Energia Elétrica , Energia Elétrica
+USIM,Materiais Básicos , Siderurgia e Metalurgia , Siderurgia
+VALE,Materiais Básicos , Mineração , Minerais Metálicos
+VLID,Bens Industriais , Serviços , Serviços Diversos
+VERT,Financeiro , Securitizadoras de Recebíveis , Securitizadoras de Recebíveis
+VVAR,Consumo Cíclico , Comércio , Eletrodomésticos
+VIVR,Consumo Cíclico , Construção Civil , Incorporações
+VULC,Consumo Cíclico , Tecidos. Vestuário e Calçados , Calçados
+WEGE,Bens Industriais , Máquinas e Equipamentos , Motores . Compressores e Outros
+MWET,Bens Industriais , Material de Transporte , Material Rodoviário
+WHRL,Consumo Cíclico , Utilidades Domésticas , Eletrodomésticos
+WSON,Bens Industriais , Transporte , Serviços de Apoio e Armazenagem
+WIZS,Financeiro , Previdência e Seguros , Corretoras de Seguros
+WLMM,Bens Industriais , Comércio , Material de Transporte
+QVQP,Outros , Outros , Outros
+AALL,Bens Industriais,Transporte,Transporte Aéreo
+ABNB,Bens Industriais,Serviços Diversos,Serviços Diversos
+AGRU,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+ANHB,Bens Industriais,Transporte,Exploração de Rodovias
+ASCP,Bens Industriais,Transporte,Exploração de Rodovias
+AUTM,Bens Industriais,Material de Transporte,Material Rodoviário
+AZEV,Bens Industriais,Construção e Engenharia,Construção Pesada
+AZUL,Bens Industriais,Transporte,Transporte Aéreo
+BBML,Bens Industriais,Serviços Diversos,Serviços Diversos
+BDLL,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+BOEI,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+CARD,Bens Industriais,Serviços Diversos,Serviços Diversos
+CATP,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+CCRO,Bens Industriais,Transporte,Exploração de Rodovias
+COLN,Bens Industriais,Transporte,Exploração de Rodovias
+CRBD,Bens Industriais,Transporte,Exploração de Rodovias
+CRTE,Bens Industriais,Transporte,Exploração de Rodovias
+DEAI,Bens Industriais,Transporte,Transporte Aéreo
+DTCY,Bens Industriais,Serviços Diversos,Serviços Diversos
+EALT,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+ECNT,Bens Industriais,Transporte,Exploração de Rodovias
+ECOR,Bens Industriais,Transporte,Exploração de Rodovias
+ECOV,Bens Industriais,Transporte,Exploração de Rodovias
+EMBR,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+ERDV,Bens Industriais,Transporte,Exploração de Rodovias
+ETER,Bens Industriais,Construção e Engenharia,Produtos para Construção
+FDXB,Bens Industriais,Transporte,Transporte Rodoviário
+FJTA,Bens Industriais,Máquinas e Equipamentos,Armas e Munições
+FLEX,Bens Industriais,Serviços Diversos,Serviços Diversos
+FRAS,Bens Industriais,Material de Transporte,Material Rodoviário
+FRIO,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+FRRN,Bens Industriais,Transporte,Transporte Ferroviário
+FSLR,Bens Industriais,Equipamentos Elétricos,Equipamentos Elétricos
+GASC,Bens Industriais,Transporte,Transporte Ferroviário
+GDBR,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+GOLL,Bens Industriais,Transporte,Transporte Aéreo
+HAGA,Bens Industriais,Construção e Engenharia,Produtos para Construção
+INEP,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+IVPR,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+JSLG,Bens Industriais,Transporte,Transporte Rodoviário
+KEPL,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+LIQO,Bens Industriais,Serviços Diversos,Serviços Diversos
+LLXL,Bens Industriais,Transporte,Transporte Ferroviário
+LMTB,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+LOGN,Bens Industriais,Transporte,Transporte Hidroviário
+LUXM,Bens Industriais,Transporte,Transporte Hidroviário
+MEND,Bens Industriais,Construção e Engenharia,Construção Pesada
+MILS,Bens Industriais,Construção e Engenharia,Serviços Diversos
+MMAQ,Bens Industriais,Comércio,Material de Transporte
+MRSA,Bens Industriais,Transporte,Transporte Ferroviário
+MTSA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+MWET,Bens Industriais,Material de Transporte,Material Rodoviário
+NORD,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+OHLB,Bens Industriais,Transporte,Exploração de Rodovias
+POMO,Bens Industriais,Material de Transporte,Material Rodoviário
+PRNR,Bens Industriais,Serviços Diversos,Serviços Diversos
+PRTX,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+PSVM,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+PTBL,Bens Industriais,Construção e Engenharia,Produtos para Construção
+PTCA,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+RAIL,Bens Industriais,Transporte,Transporte Ferroviário
+RAPT,Bens Industriais,Material de Transporte,Material Rodoviário
+RCSL,Bens Industriais,Material de Transporte,Material Rodoviário
+RDVT,Bens Industriais,Transporte,Exploração de Rodovias
+RLOG,Bens Industriais,Transporte,Transporte Ferroviário
+ROMI,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais
+RPTA,Bens Industriais,Transporte,Exploração de Rodovias
+RSUL,Bens Industriais,Material de Transporte,Material Rodoviário
+RUMO,Bens Industriais,Transporte,Transporte Ferroviário
+SAIP,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+SHUL,Bens Industriais,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+SOND,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+STBP,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+STTR,Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas
+TCNO,Bens Industriais,Construção e Engenharia,Engenharia Consultiva
+TGMA,Bens Industriais,Transporte,Transporte Rodoviário
+TPIS,Bens Industriais,Transporte,Exploração de Rodovias
+TRIA,Bens Industriais,Transporte,Exploração de Rodovias
+TUPY,Bens Industriais,Material de Transporte,Material Rodoviário
+UPAC,Bens Industriais,Transporte,Transporte Ferroviário
+UPSS,Bens Industriais,Transporte,Transporte Rodoviário
+UTEC,Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa
+VLID,Bens Industriais,Serviços Diversos,Serviços Diversos
+VOES,Bens Industriais,Transporte,Exploração de Rodovias
+VSPT,Bens Industriais,Transporte,Transporte Ferroviário
+WEGE,Bens Industriais,Máquinas e Equipamentos,"Motores, Compressores e Outros"
+WLMM,Bens Industriais,Comércio,Material de Transporte
+WSON,Bens Industriais,Transporte,Serviços de Apoio e Armazenagem
+ABRE,Consumo Cíclico,Diversos,Serviços Educacionais
+AEDU,Consumo Cíclico,Diversos,Serviços Educacionais
+AHEB,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+ALPA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+AMAR,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+AMZO,Consumo Cíclico,Comércio,Produtos Diversos
+ANIM,Consumo Cíclico,Diversos,Serviços Educacionais
+ARZZ,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+BAHI,Consumo Cíclico,Diversos,Serviços Educacionais
+BBYY,Consumo Cíclico,Comércio,Eletrodomésticos
+BISA,Consumo Cíclico,Construção Civil,Incorporações
+BKBR,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+BMKS,Consumo Cíclico,Viagens e Lazer,Bicicletas
+BTOW,Consumo Cíclico,Comércio,Produtos Diversos
+CALI,Consumo Cíclico,Construção Civil,Incorporações
+CAMB,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+CATA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CEDO,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CGRA,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+CMCS,Consumo Cíclico,Mídia,Produção e Difusão de Filmes e Programas
+CNSY,Consumo Cíclico,Mídia,Produção e Difusão de Filmes e Programas
+COWC,Consumo Cíclico,Comércio,Produtos Diversos
+CRDE,Consumo Cíclico,Construção Civil,Incorporações
+CTKA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CTNM,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CTSA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+CVCB,Consumo Cíclico,Viagens e Lazer,Viagens e Turismo
+CYRE,Consumo Cíclico,Construção Civil,Incorporações
+DAGB,Consumo Cíclico,Comércio,Produtos Diversos
+DIRR,Consumo Cíclico,Construção Civil,Incorporações
+DISB,Consumo Cíclico,Mídia,Produção e Difusão de Filmes e Programas
+DOHL,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+DUFB,Consumo Cíclico,Comércio,Produtos Diversos
+ECPR,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+ESTC,Consumo Cíclico,Diversos,Serviços Educacionais
+ESTR,Consumo Cíclico,Viagens e Lazer,Brinquedos e Jogos
+EVEN,Consumo Cíclico,Construção Civil,Incorporações
+EZTC,Consumo Cíclico,Construção Civil,Incorporações
+FDMO,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+GFSA,Consumo Cíclico,Construção Civil,Incorporações
+GMCO,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+GPRO,Consumo Cíclico,Utilidades Domésticas,Eletrodomésticos
+GPSI,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+GRND,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+GUAR,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+HBOR,Consumo Cíclico,Construção Civil,Incorporações
+HCBR,Consumo Cíclico,Comércio,Produtos Diversos
+HETA,Consumo Cíclico,Utilidades Domésticas,Utensílios Domésticos
+HGTX,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Vestuário
+HOME,Consumo Cíclico,Comércio,Produtos Diversos
+HOOT,Consumo Cíclico,Hoteis e Restaurantes,Hotelaria
+IMCH,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+INNT,Consumo Cíclico,Construção Civil,Incorporações
+JCPC,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+JFEN,Consumo Cíclico,Construção Civil,Incorporações
+JHSF,Consumo Cíclico,Construção Civil,Incorporações
+KROT,Consumo Cíclico,Diversos,Serviços Educacionais
+LAME,Consumo Cíclico,Comércio,Produtos Diversos
+LBRN,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+LCAM,Consumo Cíclico,Diversos,Aluguel de carros
+LEVE,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+LLIS,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+LREN,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+MACY,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+MCDC,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+MEAL,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+MGLU,Consumo Cíclico,Comércio,Eletrodomésticos
+MNDL,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+MOVI,Consumo Cíclico,Diversos,Aluguel de carros
+MPLU,Consumo Cíclico,Diversos,Programas de Fidelização
+MRVE,Consumo Cíclico,Construção Civil,Incorporações
+MSRO,Consumo Cíclico,Diversos,Aluguel de carros
+MYPK,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+NAFG,Consumo Cíclico,Utilidades Domésticas,Utensílios Domésticos
+NFLX,Consumo Cíclico,Mídia,Produção e Difusão de Filmes e Programas
+NIKE,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+PDGR,Consumo Cíclico,Construção Civil,Incorporações
+PLAS,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+PTNT,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+RDNI,Consumo Cíclico,Construção Civil,Incorporações
+RENT,Consumo Cíclico,Diversos,Aluguel de carros
+ROST,Consumo Cíclico,Comércio,"Tecidos, Vestuário e Calçados"
+RSID,Consumo Cíclico,Construção Civil,Incorporações
+SBUB,Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares
+SEDU,Consumo Cíclico,Diversos,Serviços Educacionais
+SEER,Consumo Cíclico,Diversos,Serviços Educacionais
+SGPS,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+SHOW,Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows
+SLED,Consumo Cíclico,Comércio,Produtos Diversos
+SMFT,Consumo Cíclico,Viagens e Lazer,Atividades Esportivas
+SMLE,Consumo Cíclico,Diversos,Programas de Fidelização
+SMLS,Consumo Cíclico,Diversos,Programas de Fidelização
+TCSA,Consumo Cíclico,Construção Civil,Incorporações
+TECN,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios
+TEKA,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+TEND,Consumo Cíclico,Construção Civil,Incorporações
+TIFF,Consumo Cíclico,Comércio,Produtos Diversos
+TOYB,Consumo Cíclico,Viagens e Lazer,Brinquedos e Jogos
+TRIS,Consumo Cíclico,Construção Civil,Incorporações
+TSLA,Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas
+TWXB,Consumo Cíclico,Mídia,Produção e Difusão de Filmes e Programas
+TXRX,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos
+UCAS,Consumo Cíclico,Utilidades Domésticas,Móveis
+UNID,Consumo Cíclico,Diversos,Aluguel de carros
+VIVR,Consumo Cíclico,Construção Civil,Incorporações
+VULC,Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados
+VVAR,Consumo Cíclico,Comércio,Eletrodomésticos
+WHRL,Consumo Cíclico,Utilidades Domésticas,Eletrodomésticos
+ABEV,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+AGRO,Consumo não Cíclico,Agropecuária,Agricultura
+AMBV,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+APTI,Consumo não Cíclico,Agropecuária,Agricultura
+AVON,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+BAUH,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+BEEF,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+BOBR,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Limpeza
+BRFS,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+BSEV,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+CAML,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+COCA,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+COLG,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+COTY,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+CRFB,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+CRUZ,Consumo não Cíclico,Fumo,Cigarros e Fumo
+FMXB,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+FRTA,Consumo não Cíclico,Agropecuária,Agricultura
+HSHY,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+JBSS,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+JMCD,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+JOPA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+KHCB,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+KMBB,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+MDIA,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+MDLZ,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+MNPR,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+MRFG,Consumo não Cíclico,Alimentos Processados,Carnes e Derivados
+NATU,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+ODER,Consumo não Cíclico,Alimentos Processados,Alimentos Diversos
+PCAR,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+PEPB,Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes
+PGCO,Consumo não Cíclico,Produtos de Uso Pessoal e de Limpeza,Produtos de Uso Pessoal
+RESA,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+SLCE,Consumo não Cíclico,Agropecuária,Agricultura
+SMTO,Consumo não Cíclico,Alimentos Processados,Açucar e Alcool
+TESA,Consumo não Cíclico,Agropecuária,Agricultura
+TGTB,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+WALM,Consumo não Cíclico,Comércio e Distribuição,Alimentos
+ABCB,Financeiro,Intermediários Financeiros,Bancos
+AIGB,Financeiro,Previdência e Seguros,Seguradoras
+ALSC,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+ANDG,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+APCS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+APER,Financeiro,Previdência e Seguros,Corretoras de Seguros
+AXPB,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+B3SA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+BAZA,Financeiro,Intermediários Financeiros,Bancos
+BBAS,Financeiro,Intermediários Financeiros,Bancos
+BBDC,Financeiro,Intermediários Financeiros,Bancos
+BBRK,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+BBSE,Financeiro,Previdência e Seguros,Seguradoras
+BBTG,Financeiro,Intermediários Financeiros,Bancos
+BDLS,Financeiro,Intermediários Financeiros,Soc. Arrendamento Mercantil
+BEES,Financeiro,Intermediários Financeiros,Bancos
+BERK,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+BFRE,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+BGIP,Financeiro,Intermediários Financeiros,Bancos
+BIDI,Financeiro,Intermediários Financeiros,Bancos
+BLAK,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+BMEB,Financeiro,Intermediários Financeiros,Bancos
+BMIN,Financeiro,Intermediários Financeiros,Bancos
+BNBR,Financeiro,Intermediários Financeiros,Bancos
+BNDP,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+BOAC,Financeiro,Intermediários Financeiros,Bancos
+BONY,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+BOXP,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BPAC,Financeiro,Intermediários Financeiros,Bancos
+BPAN,Financeiro,Intermediários Financeiros,Bancos
+BPAR,Financeiro,Intermediários Financeiros,Bancos
+BPAT,Financeiro,Intermediários Financeiros,Bancos
+BRCS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+BRGE,Financeiro,Previdência e Seguros,Seguradoras
+BRIN,Financeiro,Previdência e Seguros,Corretoras de Seguros
+BRIV,Financeiro,Intermediários Financeiros,Bancos
+BRML,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BRPR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+BRSR,Financeiro,Intermediários Financeiros,Bancos
+BSCS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+BSLI,Financeiro,Intermediários Financeiros,Bancos
+BTTL,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+BVLS,Financeiro,Intermediários Financeiros,Soc. Arrendamento Mercantil
+BVMF,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+BZRS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+CANT,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+CBSC,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+CCPR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CIEL,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+CORR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CRIV,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+CSAB,Financeiro,Previdência e Seguros,Seguradoras
+CTBA,Financeiro,Outros Títulos,Outros Títulos
+CTGP,Financeiro,Intermediários Financeiros,Bancos
+CTIP,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+DBEN,Financeiro,Intermediários Financeiros,Soc. Arrendamento Mercantil
+DHER,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+DWDP,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+ECOA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+FNCN,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+GAFL,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+GAIA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+GEOO,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+GPIV,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+GSGI,Financeiro,Intermediários Financeiros,Bancos
+GSHP,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+HBTS,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+HONB,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+IDNT,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+IDVL,Financeiro,Intermediários Financeiros,Bancos
+IGBR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+IGTA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+IRBR,Financeiro,Previdência e Seguros,Seguradoras
+ITSA,Financeiro,Intermediários Financeiros,Bancos
+ITUB,Financeiro,Intermediários Financeiros,Bancos
+JPMC,Financeiro,Intermediários Financeiros,Bancos
+JPSA,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+LHER,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+LOGG,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+LPSB,Financeiro,Exploração de Imóveis,Intermediação Imobiliária
+MCRJ,Financeiro,Outros Títulos,Outros Títulos
+MERC,Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento
+METB,Financeiro,Previdência e Seguros,Seguradoras
+MMMC,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+MNZC,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+MOAR,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+MSBR,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+MSCD,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+MULT,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+OCTS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+PARC,Financeiro,Previdência e Seguros,Corretoras de Seguros
+PDGS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+PEAB,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+PINE,Financeiro,Intermediários Financeiros,Bancos
+PLSC,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+PMSP,Financeiro,Outros Títulos,Outros Títulos
+PPLA,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+PRBC,Financeiro,Intermediários Financeiros,Bancos
+PSSA,Financeiro,Previdência e Seguros,Seguradoras
+RBCS,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+RBRA,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+RPAD,Financeiro,Intermediários Financeiros,Bancos
+SANB,Financeiro,Intermediários Financeiros,Bancos
+SCAR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+SCHW,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+SFSA,Financeiro,Intermediários Financeiros,Bancos
+SPRI,Financeiro,Holdings Diversificadas,Holdings Diversificadas
+SSBR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+SULA,Financeiro,Previdência e Seguros,Seguradoras
+TRPN,Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos
+TRVC,Financeiro,Previdência e Seguros,Seguradoras
+UBSG,Financeiro,Intermediários Financeiros,Bancos
+USBC,Financeiro,Intermediários Financeiros,Bancos
+VERT,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+VISA,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+WFCO,Financeiro,Intermediários Financeiros,Bancos
+WIZS,Financeiro,Previdência e Seguros,Corretoras de Seguros
+WTPI,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+WTVR,Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis
+WUNI,Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+ARMT,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+BRAP,Materiais Básicos,Mineração,Minerais Metálicos
+BRKM,Materiais Básicos,Químicos,Petroquímicos
+CRPG,Materiais Básicos,Químicos,Químicos Diversos
+CSNA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+DOWB,Materiais Básicos,Químicos,Petroquímicos
+DTEX,Materiais Básicos,Madeira e Papel,Madeira
+DUPO,Materiais Básicos,Químicos,Químicos Diversos
+ELEK,Materiais Básicos,Químicos,Petroquímicos
+EUCA,Materiais Básicos,Madeira e Papel,Madeira
+FCXO,Materiais Básicos,Mineração,Minerais Metálicos
+FESA,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+FFTL,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+FHER,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+FIBR,Materiais Básicos,Madeira e Papel,Papel e Celulose
+GGBR,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+GOAU,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+GPCP,Materiais Básicos,Químicos,Petroquímicos
+KLBN,Materiais Básicos,Madeira e Papel,Papel e Celulose
+LTEL,Materiais Básicos,Mineração,Minerais Metálicos
+MAGG,Materiais Básicos,Materiais Diversos,Materiais Diversos
+MGEL,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+MMXM,Materiais Básicos,Mineração,Minerais Metálicos
+MOSC,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+MSPA,Materiais Básicos,Madeira e Papel,Papel e Celulose
+MTIG,Materiais Básicos,Embalagens,Embalagens
+NEMO,Materiais Básicos,Madeira e Papel,Papel e Celulose
+NUTR,Materiais Básicos,Químicos,Fertilizantes e Defensivos
+PATI,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+PMAM,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Cobre
+RANI,Materiais Básicos,Madeira e Papel,Papel e Celulose
+SNSY,Materiais Básicos,Materiais Diversos,Materiais Diversos
+STTZ,Materiais Básicos,Madeira e Papel,Papel e Celulose
+SUZB,Materiais Básicos,Madeira e Papel,Papel e Celulose
+TKNO,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+UNIP,Materiais Básicos,Químicos,Químicos Diversos
+USIM,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+USSX,Materiais Básicos,Siderurgia e Metalurgia,Siderurgia
+VALE,Materiais Básicos,Mineração,Minerais Metálicos
+ALEF,Outros,Outros,Outros
+ATOM,Outros,Outros,Outros
+BETP,Outros,Outros,Outros
+CABI,Outros,Outros,Outros
+CACO,Outros,Outros,Outros
+CCXC,Outros,Outros,Outros
+CMSA,Outros,Outros,Outros
+CPTP,Outros,Outros,Outros
+ETRO,Outros,Outros,Outros
+FIGE,Outros,Outros,Outros
+JBDU,Outros,Outros,Outros
+MAPT,Outros,Outros,Outros
+MGIP,Outros,Outros,Outros
+OPGM,Outros,Outros,Outros
+OPHE,Outros,Outros,Outros
+OPSE,Outros,Outros,Outros
+OPTS,Outros,Outros,Outros
+PPAR,Outros,Outros,Outros
+PRPT,Outros,Outros,Outros
+QVQP,Outros,Outros,Outros
+SLCT,Outros,Outros,Outros
+SPRT,Outros,Outros,Outros
+ANDV,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+BRDT,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+CHKE,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+CHVX,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+COPH,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+CSAN,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+DMMO,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+EXXO,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+HALI,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+HRTP,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+LUPA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+OGXP,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+OSXB,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+PETR,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+PRIO,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+QGEP,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+RIGG,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+RPMG,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+SANC,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+SLBG,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços
+UGPA,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+VLOE,"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição"
+AALR,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+ABBV,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+ABTT,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+ADHM,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+AETB,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+AMGN,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+AMIL,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+BALM,Saúde,Equipamentos,Equipamentos
+BIIB,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+BIOM,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+BMYB,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+BPHA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+CLGN,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+CREM,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+CVSH,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+DASA,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+DROG,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+FLRY,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+GBIO,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+GILD,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+GNDI,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+HAPV,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+HYPE,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+JNJB,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+LILY,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+MDTC,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+MRCK,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+NRTQ,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+ODPV,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+OFSA,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+PACF,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+PARD,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+PFIZ,Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos
+PFRM,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+PNVL,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+QUAL,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+RADL,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+RAIA,Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos
+TMOS,Saúde,Análises e Diagnósticos,Análises e Diagnósticos
+AAPL,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+ACNB,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+BRQB,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+CSCO,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+CTSH,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+EBAY,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+FBOK,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+GOGL,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+HPQB,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+IBMB,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+ITEC,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+ITLC,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+LINX,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+MSFT,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+ORCL,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+POSI,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+QCOM,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+QUSW,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+SQIA,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+SSFO,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+TEXA,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+TOTS,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+TWTR,Tecnologia da Informação,Programas e Serviços,Programas e Serviços
+XRXB,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+ALGT,Telecomunicações,Telecomunicações,Telecomunicações
+ATTB,Telecomunicações,Telecomunicações,Telecomunicações
+OIBR,Telecomunicações,Telecomunicações,Telecomunicações
+SPRN,Telecomunicações,Telecomunicações,Telecomunicações
+TELB,Telecomunicações,Telecomunicações,Telecomunicações
+TIMP,Telecomunicações,Telecomunicações,Telecomunicações
+VERZ,Telecomunicações,Telecomunicações,Telecomunicações
+VIVT,Telecomunicações,Telecomunicações,Telecomunicações
+AESL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+AFLT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ALUP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CASN,Utilidade Pública,Água e Saneamento,Água e Saneamento
+CBEE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEBR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEEB,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEED,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEGR,Utilidade Pública,Gás,Gás
+CELP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CEPE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CESP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CGAS,Utilidade Pública,Gás,Gás
+CLSC,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CMGD,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CMGT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CMIG,Utilidade Pública,Energia Elétrica,Energia Elétrica
+COCE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPFE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPFG,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPFP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPLE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPRE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CPTE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+CSMG,Utilidade Pública,Água e Saneamento,Água e Saneamento
+CSRN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+DUKB,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EBEN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EEEL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EGIE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EKTR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ELET,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ELPL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EMAE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENBR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENER,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENEV,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENGI,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENMA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ENMT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+EQTL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ESCE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+FGEN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+GEPA,Utilidade Pública,Energia Elétrica,Energia Elétrica
+GETI,Utilidade Pública,Energia Elétrica,Energia Elétrica
+GPAR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+IGSN,Utilidade Pública,Água e Saneamento,Água e Saneamento
+ITPB,Utilidade Pública,Energia Elétrica,Energia Elétrica
+LIGH,Utilidade Pública,Energia Elétrica,Energia Elétrica
+LIGT,Utilidade Pública,Energia Elétrica,Energia Elétrica
+LIPR,Utilidade Pública,Energia Elétrica,Energia Elétrica
+MPXE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+NEOE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+OMGE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+PALF,Utilidade Pública,Energia Elétrica,Energia Elétrica
+PRMN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+REDE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+RNEW,Utilidade Pública,Energia Elétrica,Energia Elétrica
+SAPR,Utilidade Pública,Água e Saneamento,Água e Saneamento
+SBSP,Utilidade Pública,Água e Saneamento,Água e Saneamento
+SNST,Utilidade Pública,Água e Saneamento,Água e Saneamento
+STEN,Utilidade Pública,Energia Elétrica,Energia Elétrica
+STKF,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TAEE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TBLE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TEPE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TIET,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TMPE,Utilidade Pública,Energia Elétrica,Energia Elétrica
+TRPL,Utilidade Pública,Energia Elétrica,Energia Elétrica
+UPKP,Utilidade Pública,Energia Elétrica,Energia Elétrica
+ALLL,Bens Industriais,Transporte,Transporte Ferroviário
+BPNM,Financeiro,Intermediários Financeiros,Bancos
+BRTO,Telecomunicações,Telecomunicações,Telecomunicações
+CTAX,Tecnologia da Informação,Serviços Financeiros Diversos,Serviços Financeiros Diversos
+DAYC,Financeiro,Intermediários Financeiros,Bancos
+RDCD,Financeiro,Intermediários Financeiros,Serviços Financeiros Diversos
+TCSL,Telecomunicações,Telecomunicações,Telecomunicações
+TLPP,Telecomunicações,Telefonia Fixa,Telefonia Fixa
+TNLP,Telecomunicações,Telefonia Fixa,Telefonia Fixa
+BICB,Financeiro,Bancos,Serviços Financeiros Diversos
+VIVO,Telecomunicações,Telefonia Móvel,Telefonia Móvel
+ABYA,Consumo Cíclico ,Construção e Engenharia , Construção Civil
+AGIN,Consumo Cíclico ,Construção e Engenharia , Construção Civil
+ARTR,Bens Industriais,Transporte,Exploração de Rodovias
+BEMA,Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos
+BHGR,Financeiro,Exploração de Imóveis,Exploração de Imóveis
+CNFB,Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço
+ECOD,Consumo não Cíclico , Agropecuária , Agricultura
+INPR,Consumo Cíclico , Construção Civil , Incorporações
+KSSA,Consumo Cíclico ,Construção e Engenharia , Construção Civil
+MARI,Consumo Cíclico , Comércio ,"Tecidos, Vestuário e Calçados"
+MRSL,Consumo Cíclico , Comércio ,"Tecidos, Vestuário e Calçados"
+NETC,Consumo Cíclico ,Mídia,Televisão por Assinatura
+TAMM,Bens Industriais,Transporte,Transporte Aéreo
+TEMP,Saúde, Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos
+TMAR,Telecomunicações,Telefonia Fixa,Telefonia Fixa
+VAGR,Consumo não Cíclico , Agropecuária , Agricultura
+AGEI,Consumo Cíclico ,Construção e Engenharia ,Construção Civil
+CZLT,Consumo não Cíclico , Alimentos Processados , Açucar e Alcool
+RDTR,Bens Industriais , Máquinas e Equipamentos , Máq. e Equip. Industriais
+CZRS,Financeiro,Intermediários Financeiros,Bancos
+MEDI,Saúde , Serv.Méd.Hospit..Análises e Diagnósticos , Serv.Méd.Hospit..Análises e Diagnósticos

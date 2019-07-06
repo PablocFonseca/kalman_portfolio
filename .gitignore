@@ -108,3 +108,8 @@ fundos.db
 ~$classificao_acoes.xlsx
 classes_ivestsite.csv
 *.parquet
+*.pkl
+*.bak
+*.dat
+*.dir
+*.hdf
